@@ -1,2 +1,6 @@
 .ipynb_checkpoints/
 to_grade/
+mnist_raw/train-labels-idx1-ubyte.gz
+mnist_raw/train-images-idx3-ubyte.gz
+mnist_raw/t10k-labels-idx1-ubyte.gz
+mnist_raw/t10k-images-idx3-ubyte.gz
