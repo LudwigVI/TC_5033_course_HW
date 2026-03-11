@@ -13,3 +13,7 @@ Databases/cifar-10-batches-py/cifar-10-batches-py/data_batch_2
 Databases/cifar-10-batches-py/cifar-10-python.tar.gz
 Databases/cifar-10-batches-py/cifar-10-batches-py/batches.meta
 Databases/cifar-10-batches-py/cifar-10-batches-py/data_batch_1
+embeddings_dict_50D.pkl
+glove_embeddings/glove.6B.200d.txt
+glove_embeddings/glove.6B.100d.txt
+glove_embeddings/glove.6B.50d.txt
